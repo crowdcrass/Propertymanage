@@ -1,0 +1,17 @@
+//
+//  Propertymanage.pch
+//  Propertymanage
+//
+//  Created by Kong xiaopeng on 15/5/19.
+//  Copyright (c) 2015年 junlian.com. All rights reserved.
+//
+
+#ifndef Propertymanage_Propertymanage_pch
+#define Propertymanage_Propertymanage_pch
+
+#import "Method.h"
+#import "Header.h"
+#import "Common.h"
+#import "AFNetWorking.h"
+#import "JSONModelLib.h"
+#endif
